@@ -1,2 +1,2 @@
 # Mi-primer-repositorio-Ahinoa-Aspiazu.-
-Practica de un CSV
+Registro de compras y ventas de un supermercado
